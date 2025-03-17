@@ -37,11 +37,11 @@
          .#%%&%%.    *%%&&&%%(   .%%(**(%&/   (%%&%%.        #% %%%&&&%%/             
                                                                                 
 
-🌟 **Om Agnaye Namah** (ॐ अग्नये नमः) — Salutations to Agni, God of fire! 🔥
+
 
 ---
 
-## 📌 **Overview**
+**Overview**
 
 **Agni** is a powerful **SMB Share Scanner** designed to **detect PII (Personally Identifiable Information) and PHI (Protected Health Information)** across **Windows SMB shares**.  
 
