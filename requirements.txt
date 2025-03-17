@@ -1,0 +1,4 @@
+smbclient
+spacy
+smbmap
+smbclient-ng
